@@ -1,0 +1,10 @@
+Primary Goals:
+
+-Create customer account. Provide customer barcode for their library card, input personal info
+-Create item record, have new title listed listed in library inventory if not checked out (if checked out display unavailable).
+-Circulation. Customer should be able to check book in/out. Update library inventory when books/products are checked in/out|
+
+
+Secondary Goals:
+-Floating capabilities. Customer should be able to request a book from Location A and have Location B receive request
+-Holds. Customer requests a hold on a book, held/reserved for a few days`
