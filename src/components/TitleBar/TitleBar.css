@@ -1,0 +1,10 @@
+.title-bar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    height: 3em;
+    border: solid .125em black;
+    color:black;
+    background-color:darkorchid;
+}
